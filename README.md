@@ -26,12 +26,12 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[DRW](https://drw.com/careers/job/1352350)| Chicago, Austin | |
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847809)| Chicago | |
 |[-SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201) | Palo Alto | |
-|[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
-|[Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| Various | |
+|[-Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
+|[-Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| Various | |
 |[-Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
-|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | |
-|[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, Toronto, ON| |
-|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various| |
+|[-Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | |
+|[-Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, Toronto, ON| |
+|[-Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various| |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/search-results?m=3&keywords=new%20grad)|Seattle, Provo| Software Engineer, Software Test Engineer|
 |[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Software-Engineer_3001699)| San Diego, CA | Engineer |
 |[JP Morgan](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime)|Various|Software Engineer|
