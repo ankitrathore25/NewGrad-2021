@@ -40,11 +40,11 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2021/1786/17009507)|Various|Technology Development Program Associate|
 |[Scale AI](https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27)| San Francisco, CA |New Grad Software Engineer|
 |[Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)| San Francisco, New York, Dublin, Singapore, Seattle|New Grad Software Engineer|
-|[Palantir](https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0)| Palo Alto, New York, Seattle, Washington|Software Engineer, New Grad|
-|[Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3)| San Francisco, CA |Software Engineer, New Grad (2021)|
+|[-Palantir](https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0)| Palo Alto, New York, Seattle, Washington|Software Engineer, New Grad|
+|[-Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3)| San Francisco, CA |Software Engineer, New Grad (2021)|
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer)| Various |Full Time Opportunities for Students and Recent Graduates - Software Engineer|
-|[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641)| Various |Software Engineer - On Campus Recruiting|
-|[Benchling](https://www.benchling.com/careers/?gh_jid=2235318#detail)| San Francisco, CA / Boston, MA |Software Engineer, New Grad 2020 & 2021|
+|[~~Hudson River Trading~~](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641)| Various |Software Engineer - On Campus Recruiting|
+|[-Benchling](https://www.benchling.com/careers/?gh_jid=2235318#detail)| San Francisco, CA / Boston, MA |Software Engineer, New Grad 2020 & 2021|
 |[PIMCO](https://careers.pimco.com/careers/FolderDetail/2021-Full-time-Tech-Analyst-Software-Engineering/28909)| Various |2021 Full-time Tech Analyst, Software Engineering|
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-search=)|Various|Cognitive Developer, Back End Developer, Front End Developer, Research Software Engineer, etc|
 |[Anduril](https://jobs.lever.co/anduril/9a88ea8a-2017-41d4-b02b-2482db6cb4f9/apply?lever-source=PittCSC)|Seattle, WA|Software Engineer - New Grad|
