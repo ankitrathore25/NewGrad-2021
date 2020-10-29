@@ -54,10 +54,10 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Plaid](https://jobs.lever.co/plaid/58690464-4e63-4180-8dc7-a1e87a18fb6d)|San Francisco|[Utah](https://jobs.lever.co/plaid/32597039-3497-4876-ad70-c23d95f55d32), [NYC](https://jobs.lever.co/plaid/02998813-cd2a-4449-9eb1-49ee383d977f)|
 |[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---US-Campus--2021-_R7733)|Various|Software Engineer - US Campus (2021)|
 |[Citi](https://citi.avature.net/careers/ProjectDetail/New-York-New-York-United-States-NAM-ICG-Technology-Full-Time-Software-Development-Analyst-New-York-City-North-America-2021-/10721)|Various|Software Development Analyst|
-|[Quora](https://boards.greenhouse.io/quora2/jobs/4810866002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|Remote - Anywhere|Software Engineer (New Grad 2021)
-|[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-MA-Westford/Verification-Engineer---New-College-Grad_JR1924728)|Santa Clara, CA|Texas, Utah, etc
-|[DiDi Labs](https://boards.greenhouse.io/didi/jobs/2281086)|Mountain View|Student Careers at DiDi 2021|
-|[Mathworks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)||Multiple Openings - Engineering Development Group - U.S.|
+|[-Quora](https://boards.greenhouse.io/quora2/jobs/4810866002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|Remote - Anywhere|Software Engineer (New Grad 2021)
+|[?NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-MA-Westford/Verification-Engineer---New-College-Grad_JR1924728)|Santa Clara, CA|Texas, Utah, etc
+|[?DiDi Labs](https://boards.greenhouse.io/didi/jobs/2281086)|Mountain View|Student Careers at DiDi 2021|
+|[-Mathworks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)||Multiple Openings - Engineering Development Group - U.S.|
 |[mongoDB](https://www.mongodb.com/careers/jobs/2309034?gh_src=0wcvpq1)|New York City|New Grad - Software Engineer 2021|
 |[Orchard](https://boards.greenhouse.io/perch1/jobs/4822825002?gh_src=f2d78a2f2us)|New York City|New Grad - Software Engineer|
 |[WillowTree](https://willowtreeapps.com/careers/jobs/4795388002/software-engineer-(new-grad))|Colombus, Ohio| New Grad - Software Engineer|
