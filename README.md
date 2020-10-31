@@ -59,10 +59,10 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[?DiDi Labs](https://boards.greenhouse.io/didi/jobs/2281086)|Mountain View|Student Careers at DiDi 2021|
 |[-Mathworks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)||Multiple Openings - Engineering Development Group - U.S.|
 |[mongoDB](https://www.mongodb.com/careers/jobs/2309034?gh_src=0wcvpq1)|New York City|New Grad - Software Engineer 2021|
-|[Orchard](https://boards.greenhouse.io/perch1/jobs/4822825002?gh_src=f2d78a2f2us)|New York City|New Grad - Software Engineer|
-|[WillowTree](https://willowtreeapps.com/careers/jobs/4795388002/software-engineer-(new-grad))|Colombus, Ohio| New Grad - Software Engineer|
-|[Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
-|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
+|[-Orchard](https://boards.greenhouse.io/perch1/jobs/4822825002?gh_src=f2d78a2f2us)|New York City|New Grad - Software Engineer|
+|[!WillowTree](https://willowtreeapps.com/careers/jobs/4795388002/software-engineer-(new-grad))|Colombus, Ohio| New Grad - Software Engineer|
+|[-Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
+|[-Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
 |[Applied Intuition](https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3/apply)|Mountain View|Software Engineer - New Grad|
 |[Thrivecash](https://jobs.lever.co/thrive/679241fc-cd3a-45da-af66-f442034c90fb)|San Franciso| New Grad - Software Engineer|
 |[Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56)|San Franciso| New Grad - Backend Engineer(Remote)|
