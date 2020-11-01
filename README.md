@@ -65,17 +65,17 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[-Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
 |[-Applied Intuition](https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3/apply)|Mountain View|Software Engineer - New Grad|
 |[Thrivecash](https://jobs.lever.co/thrive/679241fc-cd3a-45da-af66-f442034c90fb)|San Franciso| New Grad - Software Engineer|
-|[Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56)|San Franciso| New Grad - Backend Engineer(Remote)|
-|[Apple](https://jobs.apple.com/en-us/details/200189775/software-or-machine-learning-engineer-entry-level?team=SFTWR) | Cupertino | Software or Machine Learning Engineer|
-|[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2322821) | San Mateo | |
-|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | |
-|[Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55584) | Seattle | |
-|[Five Rings Capital](https://jobs.jobvite.com/fiverings/job/oRiIcfwN) | NYC | |
-|[General Mills](https://careers.generalmills.com/job/11289689/digital-and-technology-early-career-program-minneapolis-mn/) | Minneapolis | |
-|[Honeywell](https://careers.honeywell.com/us/en/job/req238515/Computer-Software-Engineer-Computer-Science-Recent-Grad-Full-Time) | Various | |
-|[Peak6](https://boards.greenhouse.io/capitalmanagement/jobs/2259594) | Chicago | |
-|[Pendo](https://boards.greenhouse.io/pendo/jobs/4821861002) | Raleigh, NC | |
-|[Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290068#details) | Seattle, WA | |
+|[-Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56)|San Franciso| New Grad - Backend Engineer(Remote)|
+|[-Apple](https://jobs.apple.com/en-us/details/200189775/software-or-machine-learning-engineer-entry-level?team=SFTWR) | Cupertino | Software or Machine Learning Engineer|
+|[-Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2322821) | San Mateo | |
+|[!Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | |
+|[-Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55584) | Seattle | |
+|[?Five Rings Capital](https://jobs.jobvite.com/fiverings/job/oRiIcfwN) | NYC | |
+|[?General Mills](https://careers.generalmills.com/job/11289689/digital-and-technology-early-career-program-minneapolis-mn/) | Minneapolis | |
+|[-Honeywell](https://careers.honeywell.com/us/en/job/req238515/Computer-Software-Engineer-Computer-Science-Recent-Grad-Full-Time) | Various | |
+|[-Peak6](https://boards.greenhouse.io/capitalmanagement/jobs/2259594) | Chicago | |
+|[-Pendo](https://boards.greenhouse.io/pendo/jobs/4821861002) | Raleigh, NC | |
+|[-Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290068#details) | Seattle, WA | |
 |[Squarepoint Capital](https://www.squarepoint-capital.com/job#475700) | London, Montreal, Singapore | |
 |[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284978&tz=GMT-04:00&tzname=America/Toronto) | Missoula, MT | |
 |[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=311) | Chicago | |
@@ -91,7 +91,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Epsilon](https://www.smartrecruiters.com/PublicisGroupe/743999719329614-associate-software-engineer)|Chicago|Associate Software Engineer|
 |[TuSimple](https://boards.greenhouse.io/tusimple/jobs/4880809002)|San Diego, CA|(New Graduate) General Submission for Full-Time Employment|
 |[eBay](https://jobs.ebayinc.com/job/san-jose/software-engineer-recent-grad/403/1054728320)|San Jose, California, Bellevue, Washington, New York, New York, Portland, Oregon|Software Egineer, Recent Grad|
-|[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-software-engineer-san-francisco-california-united-states)|San Francisco|University Grad Software Engineer|
+|[-Pinterest](https://www.pinterestcareers.com/jobs/university-grad-software-engineer-san-francisco-california-united-states)|San Francisco|University Grad Software Engineer|
 |[memSQL](https://boards.greenhouse.io/memsql/jobs/2328586)|San Francisco|Software Engineer,University Grad|
 |[Verizon Media](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Sunnyvale/Assoc-Software-Dev-Engineer_JR0014308)|Sunnyvale,CA|Associate Software Engineer|
 |[Veeva](https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa)| Pleasanton | |
