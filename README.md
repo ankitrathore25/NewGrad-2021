@@ -97,9 +97,9 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Veeva](https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa)| Pleasanton | |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/2337990?gh_jid=2337990)| SF, NYC, Mtn View | |
 |[John Deere](https://jobs.deere.com/job/Moline-Engineering-Development-Program-2021a-IL-61265/673423600/?from=email&refid=12401133500&utm_source=J2WEmail&source=2&eid=40700-202015090415-20580782800&locale=en_US) | Moline , IL | |
-|[Cogo Labs](https://boards.greenhouse.io/cogolabs/jobs/4839535002) | Boston | |
+|[-Cogo Labs](https://boards.greenhouse.io/cogolabs/jobs/4839535002) | Boston | |
 |[Scholastic](https://scholastic.referrals.selectminds.com/jobs/associate-software-engineer-recent-graduate-college-hire-6397)| NYC | |
-|[Bolt](https://jobs.lever.co/bolt/5a260836-617b-47c4-a4d5-51fd012070d8) | SF | |
+|[?Bolt](https://jobs.lever.co/bolt/5a260836-617b-47c4-a4d5-51fd012070d8) | SF | |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Algorithms-and-Machine-Learning---New-College-Grad_JR1932394-2) | Santa Clara, CA | |
 |[American Express](https://jobs.americanexpress.com/jobs/20006557?lang=en-us&previousLocale=en-US) | Various | |
 |[CapTech](https://jobs.smartrecruiters.com/CapTechConsulting/743999715469518-software-engineering-consultant-graduating-dec-2020-may-2021-) | Richmond,VA | |
